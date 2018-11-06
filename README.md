@@ -1,0 +1,1 @@
+A simple demonstration of scraping a file and making decisions based on the resulting set of DOM nodes.
